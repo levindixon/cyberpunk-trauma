@@ -1,0 +1,27 @@
+{
+  "name": "cyberpunk-trauma",
+  "displayName": "Cyberpunk Trauma",
+  "author": "Levin Dixon",
+	"publisher": "levindixon",
+  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/ajshortt/cyberpunk-trauma"
+	},
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk Trauma",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberpunk Trauma-color-theme.json"
+      }
+    ]
+  }
+}
